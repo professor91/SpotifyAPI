@@ -1,0 +1,185 @@
+{
+    "toexplore": {
+        "The Drifters": "1FqqOl9itIUpXr4jZPIVoT",
+        "Breathe": "1MNeXu0284O7mQWgF1YRc0",
+        "When Chain Met Toast": "04hYGGSjYtLekuuJXEGrIl",
+        "5 Seconds of Summer": "5Rl15oVamLq7FbSb0NNBNy",
+        "The Local Train": "7b6Ui7JVaBDEfZB9k6nHL0",
+        "Imagine Dragons": "53XhwfbYqKCa1cC15pYq2q",
+        "Anuv Jain": "4gdMJYnopf2nEUcanAwstx",
+        "Ben E. King": "3plJVWt88EqjvtuB4ZDRV3",
+        "The Score": "2q3GG88dVwuQPF4FmySr9I",
+        "Avicci": "1vCWHaC5f2uS3yhpwWbIA6",
+        "Stephen Sanchez": "5XKFrudbV4IiuE5WuTPRmT"
+    },
+    "exploring": {
+        "Shawn Mendes": {
+            "id": "7n2wHs1TKAczGzO7Dd2rGr",
+            "albums": {
+                "Wonder (Deluxe)": {
+                    "id": "2sDPTkswUWDLtZYiOzubTe"
+                },
+                "Wonder (Holiday Deluxe)": {
+                    "id": "01haNCctw4EUPl8xUHVhdl"
+                },
+                "Wonder": {
+                    "id": "3Lp4JKk2ZgNkybMRS3eZR5",
+                    "tracks": {
+                        "Intro": {
+                            "id": "138oQeapLds5IeJrdRfeUd"
+                        },
+                        "Wonder": {
+                            "id": "6ZuahEctZD6w75peme58hm"
+                        },
+                        "Higher": {
+                            "id": "7nuQ1LgM6l5FLaJmlODoqj"
+                        },
+                        "24 Hours": {
+                            "id": "385VOmGbguaPG57TgoW8Lh"
+                        },
+                        "Teach Me How To Love": {
+                            "id": "5LZtB6nxvjIhUoElp3Zqk0"
+                        },
+                        "Call My Friends": {
+                            "id": "6KVxMOxlSYpC5nrvyWhYhx"
+                        },
+                        "Dream": {
+                            "id": "0bZFa5DZcx9HWx25m2Nd19"
+                        },
+                        "Song For No One": {
+                            "id": "2LUOkrWpTz1q5QeZY5jAHi"
+                        },
+                        "Monster (Shawn Mendes & Justin Bieber)": {
+                            "id": "1HbA4N1MiOsPthALesGFR1"
+                        },
+                        "305": {
+                            "id": "5ld8E3DVBXCCWQ54yrkWVp"
+                        },
+                        "Always Been You": {
+                            "id": "56KDoLjFIm7Yc7fX1XgpNw"
+                        },
+                        "Piece Of You": {
+                            "id": "5jpNBhgAk5OmfB0W5i5NaO"
+                        },
+                        "Look Up At The Stars": {
+                            "id": "0UauNGiFTVXTsgvVz6LBMf"
+                        },
+                        "Can\u2019t Imagine": {
+                            "id": "2GwberkV36NoC5snp51cLC"
+                        }
+                    }
+                },
+                "Shawn Mendes (Deluxe)": {
+                    "id": "0xzScN8P3hQAz3BT3YYX5w"
+                },
+                "Shawn Mendes": {
+                    "id": "2VP96XdMOKTXefI8Nui23s"
+                },
+                "MTV Unplugged": {
+                    "id": "0AvTcYvLE30zb3qIwxzf3o"
+                },
+                "Illuminate (Deluxe)": {
+                    "id": "3wBabo4pmzsYjALMSKY7Iq"
+                },
+                "Illuminate": {
+                    "id": "1ne2D0NxoGyZd31gAM4HNd"
+                },
+                "Live At Madison Square Garden": {
+                    "id": "6kTIdOmlTbxh7vzNwb4n0L"
+                },
+                "Handwritten (Revisited)": {
+                    "id": "11fLgnq2LE8p5hzo8urweI"
+                },
+                "Handwritten": {
+                    "id": "0CnQ0JQajNswRjPkNYVG8m"
+                },
+                "Handwritten (Deluxe)": {
+                    "id": "3Qv3N62b2EXxvMLwFURoFj"
+                },
+                "When You're Gone (Acoustic)": {
+                    "id": "3xlMYD2dXpt1EF0xQIA2lj"
+                },
+                "When You're Gone": {
+                    "id": "4EGVr9mSwFPoqvDMkiahJp"
+                },
+                "It'll Be Okay": {
+                    "id": "3sDud6BapENewYxlL8VH8r"
+                },
+                "Summer Of Love": {
+                    "id": "4nProAxFavzKkbaRQ2Otyk"
+                },
+                "KESI (Remix)": {
+                    "id": "00R62QqtlwSpAuwkS5kxB3"
+                },
+                "The Christmas Song": {
+                    "id": "0VhXN59bMNJmp3qGR3VvSH"
+                }
+            }
+        },
+        "Ritviz": {
+            "id": "72beYOeW2sb2yfcS4JsRvb",
+            "albums": {
+                "Roshni": {
+                    "id": "30zHeQZ49BIB3ScCJogz7t",
+                    "tracks": {
+                        "Roshni": {
+                            "id": "4VDJJglEbqLva4mTz4ZnHV"
+                        }
+                    }
+                },
+                "Baaraat": {
+                    "id": "5tJNl2p7wNTuRBvikWFHSn"
+                },
+                "Khamoshi": {
+                    "id": "7lWycnEMRXAuuNs7t9dQxy"
+                },
+                "Pran": {
+                    "id": "7vJ5KemWDXf18rRywdYDzc"
+                },
+                "Thandi Hawa": {
+                    "id": "3p8eF3bcvZP61JuVNKloJC"
+                },
+                "Raahi": {
+                    "id": "75RxVZ7mbjc4lIunCTIapZ"
+                },
+                "Thandi Hawa (Zupiter Remix)": {
+                    "id": "7sgjLAXruCSBPUBKjgUXwv"
+                },
+                "Thandi Hawa (Official Remixes)": {
+                    "id": "20KWWQ4hViEowU5ZMd9knf"
+                },
+                "Chalo Chalein": {
+                    "id": "1kJnEAZnHa1doqZg93ibhV"
+                },
+                "Liggi": {
+                    "id": "1zITUizbdnwegHf2BM7faa"
+                },
+                "Light It Up (feat. Nyla & Fuse ODG) [Ritviz Diwali Edition]": {
+                    "id": "1vtdLopp7TXaXBh7bAWjbI"
+                },
+                "Light It Up (Ritviz Diwali Edition)": {
+                    "id": "7IBC6i3UleTgD9EtNDdZc7"
+                },
+                "Ved": {
+                    "id": "7LPx9F9ZQWWvQlKgIQi1OZ"
+                },
+                "Yuv": {
+                    "id": "2mvaj7w1hlhrSARzMCkY3p"
+                },
+                "Vizdumb": {
+                    "id": "0vOQdORQ04T2GAVPfYoj61"
+                },
+                "Teenage Sound": {
+                    "id": "2D8dV3fLbJH4isDduuIxHt"
+                },
+                "Mismatched (Music from the Netflix Original Series)": {
+                    "id": "12Dgn6ZWJeKx74r7QUunGk"
+                },
+                "~how i'm feeling~ (the extras)": {
+                    "id": "1J2s2YBN58niYSzgkvCIM7"
+                }
+            }
+        }
+    },
+    "explored": {}
+}
